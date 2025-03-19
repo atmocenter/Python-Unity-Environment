@@ -1,0 +1,49 @@
+newmtl sahara-beige-quartz_2_570x570_crop_top
+map_Kd -o 0 0 -s 1 1 sahara-beige-quartz_2_570x570_crop_top.jpg
+Kd 1 1 1
+d 1
+
+newmtl ProBuilderDefault
+map_Kd -o 0 0 -s 1 1 GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl 360_F_284868361_oh6mC8JWFJvy2e7iIUPOkeMmfJ4MX8WB
+map_Kd -o 0 0 -s 1 1 360_F_284868361_oh6mC8JWFJvy2e7iIUPOkeMmfJ4MX8WB.jpg
+Kd 1 1 1
+d 1
+
+newmtl Brick_2_mat
+map_Kd -o 0 0 -s 4 3 Brick_2_Albedo.png
+bump -o 0 0 -s 1 1 Brick_2_Normal.png
+disp -o 0 0 -s 1 1 Brick_2_Height.png
+Kd 1 1 1
+d 1
+
+newmtl [Roofing_Shingles_Asphalt]
+map_Kd -o 0 0 -s 1 1 Roofing_Shingles_Asphalt.jpg
+Kd 1 1 1
+d 1
+
+newmtl [Roofing_Shingles_Multi]
+map_Kd -o 0 0 -s 1 1 Roofing_Shingles_Multi.jpg
+Kd 1 1 1
+d 1
+
+newmtl bear
+map_Kd -o 0 0 -s 1 1 bear.png
+Kd 1 1 1
+d 1
+
+newmtl Brick_2_Albedo
+map_Kd -o 0 0 -s 1 1 Brick_2_Albedo.png
+Kd 1 1 1
+d 1
+
+newmtl Brick_1_mat
+map_Kd -o 0 0 -s 3 3 Brick_1_Albedo.png
+bump -o 0 0 -s 1 1 Brick_1_Normal.png
+disp -o 0 0 -s 1 1 Brick_1_Height.png
+Kd 1 1 1
+d 1
+
