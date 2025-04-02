@@ -1,4 +1,4 @@
-# XR Python Coding Environment — Public Version
+# XR Python Coding Environment
 
 This Unity-based XR environment allows users to learn and practice Python coding in a virtual world. It supports multiplayer functionality, Python execution via Docker, and Moodle integration for course content and login features.
 
